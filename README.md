@@ -1,5 +1,5 @@
 ```markdown
-<h1> Wyszukiwanie tekstu
+#<h1># Wyszukiwanie tekstu
 
 Program  do przeszukiwania plików tekstowych w poszukiwaniu wzorca.
 
