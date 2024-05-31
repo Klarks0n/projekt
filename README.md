@@ -3,10 +3,10 @@ Wyszukiwanie tekstu
 Spis treści
   1. lista funkcjonalności
   2. instrukcja obsługi
-     Wymagania wstępne
-     Instalacja
-     Uruchamianie aplikacji
-     Przykłady użycia
+  Wymagania wstępne
+  Instalacja
+  Uruchamianie aplikacji
+  Przykłady użycia
    
 1. Lista funkcjonalności
      Przeszukiwanie plików .txt w bieżącym katalogu:
