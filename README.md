@@ -1,12 +1,15 @@
-Wyszukiwanie tekstu
+```markdown
+# Wyszukiwanie tekstu
 
-Spis treści
-  1. lista funkcjonalności
-  2. instrukcja obsługi
-  -Wymagania wstępne
-  -Instalacja
-  -Uruchamianie aplikacji
-  -Przykłady użycia
+Program, który przeszukuje wszystkie pliki o rozszerzeniu .txt z bieżącego katalogu w poszukiwaniu wzorca podanego z klawiatury.
+
+## Spis treści
+1. Lista funkcjonalności (#Lista funkcjonalności)
+2. Instrukcja obsługi (#Instrukcja obsługi)
+2.1. Wymagania wstępne (##Wymagania wstępne)
+2.2. Instalacja (##Instalacja)
+2.3. Uruchamianie aplikacji (##Uruchamianie aplikacji)
+2.4. Przykłady użycia (##Przykłady użycia)
    
 1. Lista funkcjonalności
      Przeszukiwanie plików .txt w bieżącym katalogu:
