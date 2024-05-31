@@ -37,3 +37,5 @@ Spis treści
             WZORZEC : 'ala' ; Wyszuka wszystkie linie zawierające tekst 'ala' z dowolnym ciągiem znaków.
             WZORZEC : 'ala*kota' ; Wyszuka wszystkie linie zawierające tekst rozpoczynający się od 'ala' i kończący się na 'kota' z dowolnym ciągiem znaków pomiędzy.
             WZORZEC : '?la'; Wyszuka wszystkie linie zawierające tekst, w którym 'la' poprzedzone jest dowolnym jednym znakiem (np. 'ala').
+
+https://github.com/Klarks0n/projekt.git
