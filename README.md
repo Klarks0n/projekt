@@ -5,12 +5,12 @@ Program  do przeszukiwania plików tekstowych w poszukiwaniu wzorca.
 
 ## Spis treści
 
-1. [Lista funkcjonalności] (# Lista funkcjonalności)
-2. [Instrukcja obsługi] (# Instrukcja obsługi)
-2.1. [Wymagania wstępne] (## Wymagania wstępne)
-2.2. [Instalacja] (## Instalacja)
-2.3. [Uruchamianie aplikacji] (## Uruchamianie aplikacji)
-2.4. [Przykłady użycia] (## Przykłady użycia)
+1. [Lista funkcjonalności] (# lista-funkcjonalności)
+2. [Instrukcja obsługi] (# instrukcja-obsługi)
+2.1. [Wymagania wstępne] (## wymagania-wstępne)
+2.2. [Instalacja] (## instalacja)
+2.3. [Uruchamianie aplikacji] (## uruchamianie-aplikacji)
+2.4. [Przykłady użycia] (## przykłady-użycia)
    
 ## Lista funkcjonalności
 
