@@ -19,9 +19,9 @@ Aplikacja automatycznie identyfikuje wszystkie pliki z rozszerzeniem .txt w bie�
 
 ### Obsługa wzorców z symbolami wieloznacznymi:
 
-* _Wzorzec może zawierać symbol ** * **, który reprezentuje dowolny ciąg znaków (także pusty)._
+* _Wzorzec może zawierać symbol *, który reprezentuje dowolny ciąg znaków (także pusty)._
 
-* _Wzorzec może zawierać symbol **?**, który reprezentuje dokładnie jeden dowolny znak._
+* _Wzorzec może zawierać symbol ?, który reprezentuje dokładnie jeden dowolny znak._
 
 ### Wyświetlanie wyników dopasowania:
 
@@ -61,10 +61,10 @@ Upewnij się, że zmienna środowiskowa JAVA_HOME jest ustawiona na ścieżkę d
 
 #### Przykłady użycia
 
-WZORZEC : ** 'ala' ** ; Wyszuka wszystkie linie zawierające tekst 'ala' z dowolnym ciągiem znaków.
+WZORZEC : **'ala'** ; _Wyszuka wszystkie linie zawierające tekst 'ala' z dowolnym ciągiem znaków._
 
-WZORZEC : ** 'ala*kota' ** ; Wyszuka wszystkie linie zawierające tekst rozpoczynający się od 'ala' i kończący się na 'kota' z dowolnym ciągiem znaków pomiędzy.
+WZORZEC : **'ala*kota'** ; _Wyszuka wszystkie linie zawierające tekst rozpoczynający się od 'ala' i kończący się na 'kota' z dowolnym ciągiem znaków pomiędzy._
 
-WZORZEC : ** '?la' **; Wyszuka wszystkie linie zawierające tekst, w którym 'la' poprzedzone jest dowolnym jednym znakiem (np. 'ala').
+WZORZEC : **'?la'**; _Wyszuka wszystkie linie zawierające tekst, w którym 'la' poprzedzone jest dowolnym jednym znakiem (np. 'ala')._
 
 https://github.com/Klarks0n/projekt.git
