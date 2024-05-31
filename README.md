@@ -19,9 +19,9 @@ Aplikacja automatycznie identyfikuje wszystkie pliki z rozszerzeniem .txt w bie�
 
 ### Obsługa wzorców z symbolami wieloznacznymi:
 
-* Wzorzec może zawierać symbol ** * **, który reprezentuje dowolny ciąg znaków (także pusty).
+* Wzorzec może zawierać symbol  *, który reprezentuje dowolny ciąg znaków (także pusty).
 
-* Wzorzec może zawierać symbol ** ? **, który reprezentuje dokładnie jeden dowolny znak.
+* _Wzorzec może zawierać symbol *?*, który reprezentuje dokładnie jeden dowolny znak._
 
 ### Wyświetlanie wyników dopasowania:
 
