@@ -6,10 +6,10 @@ Program  do przeszukiwania plików tekstowych w poszukiwaniu wzorca.
 
 1. Lista funkcjonalności
 2. Instrukcja obsługi
-   1. Wymagania wstępne 2A
-   2. Instalacja 2B
-   3. Uruchamianie aplikacji 2C
-   4. Przykłady użycia 2D
+   1. Wymagania wstępne
+   2. Instalacja
+   3. Uruchamianie aplikacji
+   4. Przykłady użycia
    
 ## Lista funkcjonalności
 
