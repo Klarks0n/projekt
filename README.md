@@ -19,9 +19,9 @@ Aplikacja automatycznie identyfikuje wszystkie pliki z rozszerzeniem .txt w bie�
 
 ### Obsługa wzorców z symbolami wieloznacznymi:
 
-Wzorzec może zawierać symbol *, który reprezentuje dowolny ciąg znaków (także pusty).
+* Wzorzec może zawierać symbol ** * **, który reprezentuje dowolny ciąg znaków (także pusty).
 
-Wzorzec może zawierać symbol ?, który reprezentuje dokładnie jeden dowolny znak.
+* Wzorzec może zawierać symbol ** ? **, który reprezentuje dokładnie jeden dowolny znak.
 
 ### Wyświetlanie wyników dopasowania:
 
@@ -35,9 +35,9 @@ Wygodny i prosty sposób wprowadzania wzorca przez użytkownika za pomocą konso
 
 ### Wymagania wstępne
 
-Java Development Kit (JDK): Wersja 8 lub wyższa.
+* Java Development Kit (JDK): Wersja 8 lub wyższa.
 
-Środowisko uruchomieniowe Java (JRE): Wersja 8 lub wyższa
+* Środowisko uruchomieniowe Java (JRE): Wersja 8 lub wyższa
 
 ### Instalacja
 
@@ -53,18 +53,18 @@ Upewnij się, że zmienna środowiskowa JAVA_HOME jest ustawiona na ścieżkę d
 
 #### Kompilacja programu:
 
-Otwórz terminal lub wiersz poleceń.
+* Otwórz terminal lub wiersz poleceń.
 
-Przejdź do katalogu, w którym znajduje się plik Main.java.
+* Przejdź do katalogu, w którym znajduje się plik Main.java.
 
-Po uruchomieniu programu zostaniesz poproszony o wprowadzenie wzorca do wyszukania. Wprowadź wzorzec i naciśnij Enter.
+* Po uruchomieniu programu zostaniesz poproszony o wprowadzenie wzorca do wyszukania. Wprowadź wzorzec i naciśnij Enter.
 
 #### Przykłady użycia
 
-WZORZEC : 'ala' ; Wyszuka wszystkie linie zawierające tekst 'ala' z dowolnym ciągiem znaków.
+WZORZEC : ** 'ala' ** ; Wyszuka wszystkie linie zawierające tekst 'ala' z dowolnym ciągiem znaków.
 
-WZORZEC : 'ala*kota' ; Wyszuka wszystkie linie zawierające tekst rozpoczynający się od 'ala' i kończący się na 'kota' z dowolnym ciągiem znaków pomiędzy.
+WZORZEC : ** 'ala*kota' ** ; Wyszuka wszystkie linie zawierające tekst rozpoczynający się od 'ala' i kończący się na 'kota' z dowolnym ciągiem znaków pomiędzy.
 
-WZORZEC : '?la'; Wyszuka wszystkie linie zawierające tekst, w którym 'la' poprzedzone jest dowolnym jednym znakiem (np. 'ala').
+WZORZEC : ** '?la' **; Wyszuka wszystkie linie zawierające tekst, w którym 'la' poprzedzone jest dowolnym jednym znakiem (np. 'ala').
 
 https://github.com/Klarks0n/projekt.git
