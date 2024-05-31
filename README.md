@@ -4,12 +4,12 @@ Program  do przeszukiwania plików tekstowych w poszukiwaniu wzorca.
 
 ## Spis treści
 
-1. [Lista funkcjonalności] 1
-2. [Instrukcja obsługi] (# instrukcja-obsługi)
-   1. [Wymagania wstępne] 2a
-   2. [Instalacja] 2b
-   3. [Uruchamianie aplikacji] 2c
-   4. [Przykłady użycia] 2d
+1. Lista funkcjonalności
+2. Instrukcja obsługi
+   1. Wymagania wstępne 2A
+   2. Instalacja 2B
+   3. Uruchamianie aplikacji 2C
+   4. Przykłady użycia 2D
    
 ## Lista funkcjonalności
 
